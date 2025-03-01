@@ -88,7 +88,7 @@ export default function Weather({ city }) {
         </a>
         and
         <a
-          href="https://jkweatherapp.netlify.app/"
+          href="https://weather-react-jk.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
